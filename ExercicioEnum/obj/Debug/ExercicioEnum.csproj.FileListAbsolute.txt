@@ -1,0 +1,7 @@
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\bin\Debug\ExercicioEnum.exe.config
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\bin\Debug\ExercicioEnum.exe
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\bin\Debug\ExercicioEnum.pdb
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\obj\Debug\ExercicioEnum.csprojAssemblyReference.cache
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\obj\Debug\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\obj\Debug\ExercicioEnum.exe
+C:\Users\kauan.silva\source\repos\Parte4-EnumeracaoComposicao\ExercicioEnum\ExercicioEnum\obj\Debug\ExercicioEnum.pdb
